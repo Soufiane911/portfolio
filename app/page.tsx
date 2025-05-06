@@ -293,7 +293,7 @@ export default function Home() {
         <div className="container">
           <h2 className="section-title">Documents</h2>
           <div className="documents-grid">
-            <a href="/cv.pdf" target="_blank" rel="noopener noreferrer" className="document-card">
+            <a href="/profil/Soufianeresume.pdf" target="_blank" rel="noopener noreferrer" className="document-card">
               <FaFilePdf className="document-icon" />
               <h3 className="document-title">CV</h3>
               <p className="document-description">Mon curriculum vitae</p>
