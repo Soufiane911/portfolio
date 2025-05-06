@@ -298,7 +298,7 @@ export default function Home() {
               <h3 className="document-title">CV</h3>
               <p className="document-description">Mon curriculum vitae</p>
             </a>
-            <a href="https://github.com/Soufiane911" target="_blank" rel="noopener noreferrer" className="document-card">
+            <a href="https://github.com/Soufiane911/Document-BTS" target="_blank" rel="noopener noreferrer" className="document-card">
               <FaGraduationCap className="document-icon" />
               <h3 className="document-title">BTS SIO</h3>
               <p className="document-description">Diplôme BTS Services Informatiques aux Organisations</p>
